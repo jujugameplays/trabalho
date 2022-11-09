@@ -10,7 +10,7 @@
 		<header>
 			<h1 class="titulo-principal">cleiton's burguer</h1>
 		</header>
-		<img id="banner" src="banner.jpg">
+		<img id="banner" src="cleiton's burguer.jpg">
 		<div class="principal">
 			<h2 class="titulo-centralizado">Sobre a cleiton's burguer</h2>
 	 
@@ -31,7 +31,7 @@
 				<li class="itens">Profissionais Qualificados</li>
 			</ul>
 
-			<img src="beneficios.jpg" class="imagembeneficios">
+			<img src="lanchonete.jpg" class="imagemlanchonete">
 		</div>
 	</body>
 </html>
